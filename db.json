@@ -34,7 +34,120 @@
       "dateRevisionJO": "1994-04-27",
       "signataires": "Organisation(s) patronale(s) : Syndicat national des sociétés d’assistance (S.N.S.A). Syndicat(s) de salarié(s) : Syndicats chrétiens des inspecteurs intermédiaires producteurs et administratifs de l’assistance ; C.F.D.T. ; S.N.A.E.T.A.N. C.F.E.-C.G.C.",
       "champsAppProf": "Entreprises (ou établissements) françaises ou étrangères établies en France ou dans les DOM dont l’activité principale consiste à effectuer, grâce à une continuité de service, et par tout moyen, l’écoute ou la réception de messages, l’ordonnancement de services par des structures adaptées, pour garantir une assistance contractuellement prévue aux personnes et aux biens. Sont également visés les GIE constitués exclusivement ou contrôlés par les entreprises visées ci-dessus et ayant pour objet de faciliter l’exercice des activités d’assistance de ces entreprises (par la mise en œuvre de moyens techniques ou humains nécessaires). L’appréciation du contrôle du GIE se fait au moment de sa constitution selon le pourcentage des droits de vote détenus par les entreprises d’assistance. Lorsque ce pourcentage est égal ou supérieur à 70 %, le GIE est considéré comme contrôlé par les entreprises d’assistance. Lorsque ce pourcentage est inférieur à 70 %, le choix de la convention collective est arrêté dans le cadre d’une négociation avec les délégués syndicaux du GIE ou, à défaut, par les instances du GIE. Exclusion : activités d’entretien, de maintenance, d’après-vente, d’aide à domicile lorsqu’elles sont exercées à titre principal.",
-      "champsAppTerritorial": "Métropole et DOM"
+      "champsAppTerritorial": "Métropole et DOM",
+      "prevoyance": {
+        "cadre": {
+          "commentaire": "",
+          "dateFinDesignation": "2018-06-01",
+          "garantie": [
+            {
+              "label": "Organisme désigné",
+              "dispoEtendu": ["OCIRP", "MALAKOFF MEDERIC"],
+              "dispoNonEtendu": []
+            },
+            {
+              "label": "Organisme recommandé",
+              "dispoEtendu": [],
+              "dispoNonEtendu": []
+            },
+            {
+              "label": "Invalidité",
+              "dispoEtendu": ["MALAKOFF MEDERIC"],
+              "dispoNonEtendu": []
+            },
+            {
+              "label": "Incapacité",
+              "dispoEtendu": ["MALAKOFF MEDERIC"],
+              "dispoNonEtendu": []
+            },
+            {
+              "label": "Maintien de salaire",
+              "dispoEtendu": ["OCIRP"],
+              "dispoNonEtendu": []
+            },
+            {
+              "label": "Risques particuliers",
+              "dispoEtendu": [],
+              "dispoNonEtendu": []
+            },
+            {
+              "label": "Assistance",
+              "dispoEtendu": [],
+              "dispoNonEtendu": []
+            },
+            {
+              "label": "Dépendances",
+              "dispoEtendu": [],
+              "dispoNonEtendu": []
+            },
+            {
+              "label": "Indemnité de licenciement",
+              "dispoEtendu": [],
+              "dispoNonEtendu": []
+            }
+          ]
+        },
+        "nonCadre": {
+          "commentaire": "",
+          "dateFinDesignation": "2018-06-01",
+          "garantie": [
+            {
+              "label": "Organisme désigné",
+              "dispoEtendu": [
+                "OCIRP",
+                "MALAKOFF MEDERIC"
+              ],
+              "dispoNonEtendu": []
+            },
+            {
+              "label": "Organisme recommandé",
+              "dispoEtendu": [],
+              "dispoNonEtendu": []
+            },
+            {
+              "label": "Invalidité",
+              "dispoEtendu": [
+                "MALAKOFF MEDERIC"
+              ],
+              "dispoNonEtendu": []
+            },
+            {
+              "label": "Incapacité",
+              "dispoEtendu": [
+                "MALAKOFF MEDERIC"
+              ],
+              "dispoNonEtendu": []
+            },
+            {
+              "label": "Maintien de salaire",
+              "dispoEtendu": [
+                "OCIRP"
+              ],
+              "dispoNonEtendu": []
+            },
+            {
+              "label": "Risques particuliers",
+              "dispoEtendu": [],
+              "dispoNonEtendu": []
+            },
+            {
+              "label": "Assistance",
+              "dispoEtendu": [],
+              "dispoNonEtendu": []
+            },
+            {
+              "label": "Dépendances",
+              "dispoEtendu": [],
+              "dispoNonEtendu": []
+            },
+            {
+              "label": "Indemnité de licenciement",
+              "dispoEtendu": [],
+              "dispoNonEtendu": []
+            }
+          ]
+        }
+      }
     },
     {
       "idcc": 2395,
