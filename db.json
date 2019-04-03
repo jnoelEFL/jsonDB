@@ -36,117 +36,127 @@
       "champsAppProf": "Entreprises (ou établissements) françaises ou étrangères établies en France ou dans les DOM dont l’activité principale consiste à effectuer, grâce à une continuité de service, et par tout moyen, l’écoute ou la réception de messages, l’ordonnancement de services par des structures adaptées, pour garantir une assistance contractuellement prévue aux personnes et aux biens. Sont également visés les GIE constitués exclusivement ou contrôlés par les entreprises visées ci-dessus et ayant pour objet de faciliter l’exercice des activités d’assistance de ces entreprises (par la mise en œuvre de moyens techniques ou humains nécessaires). L’appréciation du contrôle du GIE se fait au moment de sa constitution selon le pourcentage des droits de vote détenus par les entreprises d’assistance. Lorsque ce pourcentage est égal ou supérieur à 70 %, le GIE est considéré comme contrôlé par les entreprises d’assistance. Lorsque ce pourcentage est inférieur à 70 %, le choix de la convention collective est arrêté dans le cadre d’une négociation avec les délégués syndicaux du GIE ou, à défaut, par les instances du GIE. Exclusion : activités d’entretien, de maintenance, d’après-vente, d’aide à domicile lorsqu’elles sont exercées à titre principal.",
       "champsAppTerritorial": "Métropole et DOM",
       "prevoyance": {
-        "cadre": {
-          "commentaire": "",
-          "dateFinDesignation": "2018-06-01",
-          "garantie": [
-            {
-              "label": "Organisme désigné",
-              "dispoEtendu": ["OCIRP", "MALAKOFF MEDERIC"],
-              "dispoNonEtendu": []
-            },
-            {
-              "label": "Organisme recommandé",
-              "dispoEtendu": [],
-              "dispoNonEtendu": []
-            },
-            {
-              "label": "Invalidité",
-              "dispoEtendu": ["MALAKOFF MEDERIC"],
-              "dispoNonEtendu": []
-            },
-            {
-              "label": "Incapacité",
-              "dispoEtendu": ["MALAKOFF MEDERIC"],
-              "dispoNonEtendu": []
-            },
-            {
-              "label": "Maintien de salaire",
-              "dispoEtendu": ["OCIRP"],
-              "dispoNonEtendu": []
-            },
-            {
-              "label": "Risques particuliers",
-              "dispoEtendu": [],
-              "dispoNonEtendu": []
-            },
-            {
-              "label": "Assistance",
-              "dispoEtendu": [],
-              "dispoNonEtendu": []
-            },
-            {
-              "label": "Dépendances",
-              "dispoEtendu": [],
-              "dispoNonEtendu": []
-            },
-            {
-              "label": "Indemnité de licenciement",
-              "dispoEtendu": [],
-              "dispoNonEtendu": []
-            }
-          ]
+        "commentaire": {
+          "cadre": "",
+          "nonCadre": ""
         },
-        "nonCadre": {
-          "commentaire": "",
-          "dateFinDesignation": "2018-06-01",
-          "garantie": [
-            {
-              "label": "Organisme désigné",
-              "dispoEtendu": [
+        "dateFinDesignation": {
+          "cadre": "2018-06-01",
+          "nonCadre": "2018-06-01"},
+        "garantie": [
+          {
+            "label": "Organisme désigné",
+            "dispoEtendu": {
+              "cadre": [
                 "OCIRP",
                 "MALAKOFF MEDERIC"
               ],
-              "dispoNonEtendu": []
+              "nonCadre": [
+                "OCIRP",
+                "MALAKOFF MEDERIC"
+              ]
             },
-            {
-              "label": "Organisme recommandé",
-              "dispoEtendu": [],
-              "dispoNonEtendu": []
+            "dispoNonEtendu": {
+              "cadre": [],
+              "nonCadre": []
+            }
+          },
+          {
+            "label": "Organisme recommandé",
+            "dispoEtendu": {
+              "cadre": [],
+              "nonCadre": []
             },
-            {
-              "label": "Invalidité",
-              "dispoEtendu": [
+            "dispoNonEtendu": {
+              "cadre": [],
+              "nonCadre": []
+            }
+          },
+          {
+            "label": "Invalidité",
+            "dispoEtendu": {
+              "cadre": ["MALAKOFF MEDERIC"],
+              "nonCadre": ["MALAKOFF MEDERIC"]
+            },
+            "dispoNonEtendu": {
+              "cadre": [],
+              "nonCadre": []
+            }
+          },
+          {
+            "label": "Incapacité",
+            "dispoEtendu": {
+              "cadre": [
                 "MALAKOFF MEDERIC"
               ],
-              "dispoNonEtendu": []
-            },
-            {
-              "label": "Incapacité",
-              "dispoEtendu": [
+              "nonCadre": [
                 "MALAKOFF MEDERIC"
-              ],
-              "dispoNonEtendu": []
+              ]
             },
-            {
-              "label": "Maintien de salaire",
-              "dispoEtendu": [
+            "dispoNonEtendu": {
+              "cadre": [],
+              "nonCadre": []
+            }
+          },
+          {
+            "label": "Maintien de salaire",
+            "dispoEtendu": {
+              "cadre": [
                 "OCIRP"
               ],
-              "dispoNonEtendu": []
+              "nonCadre": [
+                "OCIRP"
+              ]
             },
-            {
-              "label": "Risques particuliers",
-              "dispoEtendu": [],
-              "dispoNonEtendu": []
-            },
-            {
-              "label": "Assistance",
-              "dispoEtendu": [],
-              "dispoNonEtendu": []
-            },
-            {
-              "label": "Dépendances",
-              "dispoEtendu": [],
-              "dispoNonEtendu": []
-            },
-            {
-              "label": "Indemnité de licenciement",
-              "dispoEtendu": [],
-              "dispoNonEtendu": []
+            "dispoNonEtendu": {
+              "cadre": [],
+              "nonCadre": []
             }
-          ]
-        }
+          },{
+            "label": "Risques particuliers",
+            "dispoEtendu": {
+              "cadre": [],
+              "nonCadre": []
+            },
+            "dispoNonEtendu": {
+              "cadre": [],
+              "nonCadre": []
+            }
+          },
+          {
+            "label": "Assistance",
+            "dispoEtendu": {
+              "cadre": [],
+              "nonCadre": []
+            },
+            "dispoNonEtendu": {
+              "cadre": [],
+              "nonCadre": []
+            }
+          },
+          {
+            "label": "Dépendances",
+            "dispoEtendu": {
+              "cadre": [],
+              "nonCadre": []
+            },
+            "dispoNonEtendu": {
+              "cadre": [],
+              "nonCadre": []
+            }
+          },
+          {
+            "label": "Indemnité de licenciement",
+            "dispoEtendu": {
+              "cadre": [],
+              "nonCadre": []
+            },
+            "dispoNonEtendu": {
+              "cadre": [],
+              "nonCadre": []
+            }
+          }
+        ]
       }
     },
     {
