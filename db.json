@@ -160,9 +160,18 @@
       }
     },
     {
-      "idcc": 2395,
-      "title": "assistants maternels",
-      "jo": 3317
+      "idcc": 1486,
+      "title": "Bureaux d’études techniques",
+      "titleConvention": "Synthèse de la convention collective",
+      "jo": 3018,
+      "dateSignature": "1987-12-15T00:00:00.000Z",
+      "dateExtension": "1988-04-13T00:00:00.000Z",
+      "dateSignatureJO": "1988-04-27T00:00:00.000Z",
+      "dateRevision": "",
+      "dateRevisionExtension": "",
+      "dateRevisionJO": "",
+      "champsAppProf": "Entreprises ayant une activité principale d’ingénierie, de conseil, de services informatiques, cabinets d’ingénieurs-conseils et entreprises d’organisation de foires et salons, relevant notamment des codes NAF suivants de la nomenclature INSEE de 2008. Informatique : 58.12 Z Édition de répertoires et de fichiers d’adresses 58.21 Z Édition de jeux électroniques 58.29 A Édition de logiciels système et réseau 58.29 B Édition de logiciels outils de développement et de langages 58.29 C Édition de logiciels applicatifs 62.01 Z Programmation informatique 62.02 A Conseil en systèmes et logiciels informatiques 62.02 B Tierce maintenance de systèmes et d’applications informatiques 62.03 Z Gestion d’installations informatiques 62.09 Z Autres activités informatiques 63.11 Z Traitement de données, hébergement et activités connexes 63.12 Z Portails internet Ingénierie 71.12 B Ingénierie, études techniques 71.20 B Analyses, essais et inspections techniques 74.90 B Activités spécialisées, scientifiques et techniques diverses Études et conseils 70.21 Z Conseil en relations publiques et communication 70.22 Z Conseil pour les affaires et autres conseils de gestion 73.20 Z Études de marché et sondages 78.10 Z Activités des agences de placement de main-d’œuvre 78.30 Z Autre mise à disposition de ressources humaines Foires, congrès et salons 25.11 Z Fabrication de structures métalliques et éléments modulaires pour exposition 43.32 C Agencement de lieux de vente – montage de stands 68.20 B Location de terrains et autres biens immobiliers : halls d’exposition, salles de conférence, de réception, de réunion 68.32 A Administration d’immeubles et autres biens immobiliers 82.30 Z Organisation de foires, salons professionnels et congrès 90.04 Z Gestion de salles de spectacles Traduction et interprétation 74.30 Z Traduction et interprétation Le champ d’application couvre également l’OCPA de la branche. Chargés d’enquête intermittents et enquêteurs vacataires : salariés visés : salariés ayant pour mission la réalisation d’interviews, de comptages ou autres tâches de même type sur un sujet donné dans une population définie et une zone géographiquement fixée lors de chaque mission. Salariés en CDI intermittent (chargés d’enquête) et en CDD (enquêteurs vacataires) ; statut : ces salariés ne bénéficient pas de l’ensemble des dispositions de la CCN. Ils relèvent de l’accord du 16-12-91 étendu.",
+      "champsAppTerritorial": "France métropolitaine et DOM-TOM."
     },
     {
       "idcc": 5507,
