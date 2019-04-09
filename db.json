@@ -40,12 +40,9 @@
           "cadre": "",
           "nonCadre": ""
         },
-        "dateFinDesignation": {
-          "cadre": "2018-06-01",
-          "nonCadre": "2018-06-01"},
         "garantie": [
           {
-            "label": "Organisme désigné",
+            "label": "Organisme",
             "dispoEtendu": {
               "cadre": [
                 "OCIRP",
